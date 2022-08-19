@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4fd3762-8b6d-4b70-95da-28858991e5ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/AmazonHomePage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/client-combined-3.141.59-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/client-combined-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/Selenium/selenium/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonHomePage/src/amazon/AmazonHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/client-combined-3.141.59-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/client-combined-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/Selenium/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/testNg/testng-7.0.0 (2).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/directory/webDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/src/homePageAmazon/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/src/homePageAmazon/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFramwork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BddFrameWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BddFrameWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BddFrameWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BddFrameWork/BddFrameWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnSelenium/LearnSelenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnSelenium/WebAutomationFramwork/GeneralMotors/GeneralMotors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnSelenium/WebAutomationFramwork/WebAutomationFramwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoreAdvancedJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoreAdvancedJava/MoreAdvancedJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoreAdvancedJava/src/arrays/LearScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/Generic/src/main/java/browserDriverWindows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/Generic/src/main/java/browserDriverWindows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/Generic/src/main/java/browserDriverWindows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/Generic/src/main/java/browserDriverWindows/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/NewProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/com.Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/com.Amazon/src/main/java/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/com.Amazon/src/main/java/HomePageWebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/com.Amazon/src/test/java/tryBdd/AmazonHoamePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/PHPTravels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/ScreenShots/commons-io-2.11.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/ScreenShots/commons-io-2.11.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/ScreenShots/commons-io-2.11.0-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/ScreenShots/commons-io-2.11.0-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/ScreenShots/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/client-combined-3.141.59-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/client-combined-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/selenium/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/testNG/testng-7.0.0 (2).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHPTravels/newDirec/webDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PacticePage/.idea/PacticePage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PacticePage/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/client-combined-3.141.59-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/client-combined-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/selenium/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/webDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/Directory/webDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagePractice/PagePractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/WebAutomationFramework_Team4-30300NJ_Abdelhalim (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_aventstack_extentreports_5_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__com_zaxxer_SparseBitSet_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__io_reactivex_rxjava3_rxjava_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_commons_commons_compress_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_poi_poi_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_12_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_rauschig_jarchivelib_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/WebAutomationFramework_Team4-30300NJ_Abdelhalim/BankOfAmerica/Screenshots/testSignInBOFA (220801170823-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/WebAutomationFramework_Team4-30300NJ_Abdelhalim/BankOfAmerica/Screenshots/testSignInBOFA (220801171058-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/WebAutomationFramework_Team4-30300NJ_Abdelhalim/BankOfAmerica/Screenshots/testSignInBOFA (220801171339-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/WebAutomationFramework_Team4-30300NJ_Abdelhalim/FoxNews/Screenshots/testSearchBox (220802001637-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramework_Team4-30300NJ_Abdelhalim (2)/WebAutomationFramework_Team4-30300NJ_Abdelhalim/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Amazon/src/test/java/features/HomePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Amazon/src/test/java/features/SignUp.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/BrowserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/BrowserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/BrowserDriver/windows/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/utilities/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/utilities/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationFramwork/Generic/src/main/java/utilities/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/advancedJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon/.idea/amazon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webDriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webDriver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802002940-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802003137-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802013500-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802013547-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802014010-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802014305-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802014522-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802014624-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802080434-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802083329-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802083939-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestBropDown (220802084045-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802084201-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802090004-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802090152-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802090329-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802090510-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802091025-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802091101-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802091213-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802091315-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802091750-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802092041-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802092104-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802092817-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802094141-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLanguage (220802094216-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLogo (220802003012-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLogo (220802013512-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLogo (220802013602-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/Screenshots/TestLogo (220802014020-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/src/test/java/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/target/classes/homePage/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/target/classes/homePage/HomePageWebElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/target/test-classes/HomePageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Amazon/target/test-classes/TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/browserDriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/browserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/browserDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/browserDriver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/src/main/java/extent/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/src/main/java/extent/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/target/classes/common/WebAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/target/classes/extent/ExtentManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/Generic/target/classes/extent/ExtentTestManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/Screenshots/TestSearchBox (220804000525-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/Screenshots/TestSearchBox (220804000651-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/Screenshots/TestSearchBox (220804000840-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/Screenshots/Testxxx (220804005001-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/Screenshots/Testxxx (220804005047-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/Screenshots/Testxxx (220804005238-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/src/main/java/homePage/EbayHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/src/main/java/homePage/EbayHomePageWebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/src/test/java/EbayHomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/src/test/resources/EbayTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/target/test-classes/EbayHomePageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/ebay/target/test-classes/EbayTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven.Project.Demo/maven.Project.Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ment.oop/ment.oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring.oop/mentoring.oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectOrientedProgramming/objectOrientedProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectOrientedProgramming/src/encapsulation/Enc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectOrientedProgramming/src/learnArrayList/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thursdayRview/thursdayRview.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2D6eH8h3PleW0xkSwcmJ6plNSVz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/testNG/testng-7.0.0 (2).jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\13477\IdeaProjects\ebay\src\main" />
+      <recent name="C:\Users\13477\IdeaProjects\ebay\src\main\testNG" />
+      <recent name="C:\Users\13477\IdeaProjects\ebay\src\main\selenium" />
+      <recent name="C:\Users\13477\IdeaProjects\ebay\src\main\webDriver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\13477\IdeaProjects\ebay\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Test Login With Proper Credentials">
+    <configuration name="Feature: testEbay" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/testEbay.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="ebay" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: testEbay" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Test Login With Proper Credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/testEbay.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="ebay" />
+      <option name="NAME_FILTER" value="^Test Login With Proper Credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Test Login With Proper Credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Test Login With Proper Credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Test Login With Proper Credentials" />
+        <item itemvalue="Cucumber Java.Feature: testEbay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4fd3762-8b6d-4b70-95da-28858991e5ed" name="Default Changelist" comment="" />
+      <created>1660023872682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660023872682</updated>
+    </task>
+    <servers />
+  </component>
+</project>
